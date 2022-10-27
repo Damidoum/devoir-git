@@ -1,4 +1,4 @@
-01 Nom: Rouchouse   
+01 Nom: Damien Rouchouse   
 01 github: Damidoum
 02 Nom: Chassagne
 02 github: NoeChassagne
